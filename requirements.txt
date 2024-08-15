@@ -1,0 +1,4 @@
+pandas==1.5.2
+selenium==4.23.1
+tqdm==4.65.0
+ttkbootstrap==1.10.1

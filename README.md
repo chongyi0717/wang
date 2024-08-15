@@ -1,3 +1,7 @@
+## 前置作業：requirements
+
+```pip install -r requirements.txt```
+
 ## 步驟一：用天數來爬資料
 
 ```python crawl_day.py```
