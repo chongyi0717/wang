@@ -46,6 +46,7 @@ data=[]
 
 select_length = Select(browser.find_element(By.NAME,'memberDailyBettingTable_length'))
 select_length.select_by_value('800')
+time.sleep(1)
 table = browser.find_element(By.ID,'memberDailyBettingTable')
 
 try:
